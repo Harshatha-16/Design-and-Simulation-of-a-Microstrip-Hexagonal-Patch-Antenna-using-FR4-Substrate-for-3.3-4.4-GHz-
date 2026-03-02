@@ -1,0 +1,2 @@
+# Design-and-Simulation-of-a-Microstrip-Hexagonal-Patch-Antenna-using-FR4-Substrate-for-3.3-4.4-GHz-
+This project focuses on the design and simulation of a microstrip hexagonal patch antenna operating in the 3.3–4.4 GHz frequency band. The antenna is designed using an FR4 substrate and simulated in CST Studio Suite to analyze its radiation characteristics.  Sub-6 GHz communication band,  used in modern wireless technologies including 5G and Wi‑Fi.
